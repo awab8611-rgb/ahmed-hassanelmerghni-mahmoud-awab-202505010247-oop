@@ -1,7 +1,7 @@
 # BIT1123 Object Oriented Programming — Assignment 1
 
-**Student Name:** Khaled Saeed Ahmed
-**Student ID:** 202309010806
+**Student Name:** ahmed hassanelmerghni mahmoud awab
+**Student ID:** 202505010247
 **Course:** BIT1123 Object Oriented Programming
 **Institution:** City University Malaysia
 
