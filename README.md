@@ -26,7 +26,7 @@ building a graphical user interface with Java Swing.
 ## Repository Structure
 
 ```
-khaled-saeed-ahmed-202309010806-oop/
+/
 │
 ├── README.md
 ├── myreport.pdf
@@ -140,5 +140,5 @@ comfortable with the Git workflow of committing and pushing every week's work.
 
 ## Repository Information
 
-* **Repository:** https://github.com/ksdsass/khaled-saeed-ahmed-202309010806-oop
+* **Repository:**
 * **Main branch:** `main` (final submission)
