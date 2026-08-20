@@ -1,16 +1,11 @@
-public class Lecturer extends Employee {
+class Lecturer extends Person {
 
-    private String subject;
-    private String department;
-
-    public Lecturer(String id, String name, String subject, String department) {
-        super(id, name);
-        this.subject = subject;
-        this.department = department;
+    public Lecturer(String name, String id) {
+        super(name, id);
     }
 
-    public void displaySubject() {
-        System.out.println("Subject   : " + subject);
-        System.out.println("Department : " + department);
+    @Override
+    public void introduce() {
+        System.out.println("I am a lecturer.");
     }
 }
