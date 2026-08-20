@@ -1,0 +1,6 @@
+* text=auto
+*.java text
+*.md text
+*.txt text
+*.pdf binary
+*.class binary
